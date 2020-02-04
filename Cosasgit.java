@@ -16,7 +16,7 @@ public class Cosasgit {
      */
     public static void main(String[] args) {
         System.out.println("Hola, esto es git");
-        System.out.println("Esto es nuevo");
+        System.out.println("Esto no es nuevo");
     }
     
 }
